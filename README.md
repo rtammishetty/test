@@ -1,0 +1,2 @@
+# AngularDirectory
+working folder structure
